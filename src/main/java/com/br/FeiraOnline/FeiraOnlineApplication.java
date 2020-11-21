@@ -8,6 +8,7 @@ public class FeiraOnlineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FeiraOnlineApplication.class, args);
+		
 	}
 
 }
